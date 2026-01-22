@@ -2,7 +2,7 @@ import { useState } from "react";
 import TripForm from "./components/TripForm";
 import PaperLog from "./components/PaperLog";
 import MapView from "./components/MapView";
-import "./app.css";
+import "./App.css";
 
 
 function App() {
